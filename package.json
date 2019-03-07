@@ -1,0 +1,25 @@
+{
+  "name": "yapi-plugin-export-docx-data",
+  "version": "1.3.1",
+  "description": "docxtemplater json docx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "docxtemplater json docx"
+  ],
+  "author": "gt",
+  "license": "ISC",
+  "dependencies": {
+    "docxtemplater": "^3.9.9",
+    "eslint": "^5.15.1",
+    "jszip": "^2.6.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
+}
